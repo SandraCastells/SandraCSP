@@ -267,6 +267,6 @@
 024600     SET INPUT-ERROR TO TRUE.                                     bbank10p
 024700 VALIDATE-USER-EXIT.                                              bbank10p
 024800     EXIT.                                                        bbank10p
-024900                                                                  bbank10p
+024900*    sandra was here hehe                                         bbank10p
 025000* $ Version 5.99c sequenced on Wednesday 3 Mar 2011 at 1:00pm     bbank10p
       *max was here
