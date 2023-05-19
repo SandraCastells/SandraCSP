@@ -1,0 +1,29 @@
+# Ignore these DIRs
+New_Configuration.bin/
+.settings/
+docs/
+
+# Ignore all files in this DIRs
+system/*
+system/catalog/*
+system/data/*
+system/loadlib/*
+system/sysloadlib/*
+system/logs/*
+
+# Ignore all files
+.cobolBuild
+.cobolProj
+.project
+*.mfdirset
+*.dll
+*.idy
+*.obj
+*.tlog
+*.log
+*.cpy
+*.bak
+*.vscode
+
+# Don't ignore these files
+!.gitkeep
